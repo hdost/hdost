@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Harold's GitHub stats](https://github-readme-stats.vercel.app/api?username=hdost&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hdost&theme=radical)](https://github.com/hdost)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hdost&theme=radical)](https://github.com/hdost)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hdost&theme=radical)](https://github.com/hdost)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hdost&theme=radical)](https://github.com/hdost)
